@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e05c930-137b-4391-81cd-f6e28922f152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/casper-two" beforeDir="false" afterPath="$PROJECT_DIR$/themes/casper-two" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/casper-two/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/casper-two/layouts/partials/footer.html" afterDir="false" />
     </list>
@@ -53,7 +53,7 @@
       <workItem from="1586105494830" duration="541000" />
       <workItem from="1586106220680" duration="7216000" />
       <workItem from="1586623896804" duration="605000" />
-      <workItem from="1586688033445" duration="5247000" />
+      <workItem from="1586688033445" duration="6491000" />
     </task>
     <servers />
   </component>

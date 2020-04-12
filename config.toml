@@ -1,0 +1,60 @@
+baseurl         = "https://shiatsuco.com"
+theme           = "casper-two"
+languageCode    = "fr-FR"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Shiatsu&Co"
+  subtitle    = "M.Poidevin Praticienne"
+
+  cover       = "img/header.jpg"
+  description = "Praticienne nantaise proposant ses services en shiatsu."
+  metaDescription = "Praticienne nantaise proposant ses services en shiatsu."
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "AlanPacaud"
+  fbName = "alan.pacaud"
+  githubName = "alanpacaud"
+
+  logo = ""
+  orgName = "ShiastuCo"
+  orgWebsite = "https://shiatsuco.com"
+  orgDescription = "Soins shiatsu et bien-être près de chez vous"
+
+  author = "Alan"
+  authorAvatar = "img/author1.jpg"
+  authorLocation = "Nantes, FR"
+  authorWebsite = "https://github.com/alanpacaud"
+  authorDescription = "Web Developer"
+
+  pageNotFoundTitle = "Oups - Page not found(404)"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Accueil et actualités"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Soins & Prestations"
+  url = "/tags/prout/"
+  weight = 100
+
+[[menu.main]]
+  name = "Présentation"
+  url = "/categories/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Conactez-moi"
+  url = "https://google.com/"
+  weight = 95

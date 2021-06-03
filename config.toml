@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://shiatsuco.com"
 theme           = "casper-two"
 languageCode    = "fr-FR"
 disqusShortname = ""

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e05c930-137b-4391-81cd-f6e28922f152" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitsubmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/casper-two" beforeDir="false" afterPath="$PROJECT_DIR$/themes/casper-two" afterDir="false" />
@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kross-hugo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -53,7 +53,8 @@
       <workItem from="1586105494830" duration="541000" />
       <workItem from="1586106220680" duration="7216000" />
       <workItem from="1586623896804" duration="605000" />
-      <workItem from="1586688033445" duration="6491000" />
+      <workItem from="1586688033445" duration="7704000" />
+      <workItem from="1587297387526" duration="849000" />
     </task>
     <servers />
   </component>
@@ -61,9 +62,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="619" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586708911443">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="619" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1586708911443" />
     <state x="555" y="228" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586106010866">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="555" y="228" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.984@0.0.1280.984" timestamp="1586106010866" />
+    <state x="655" y="247" key="FileChooserDialogImpl" timestamp="1587299160644">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="655" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1587299160644" />
   </component>
 </project>
